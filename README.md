@@ -1,6 +1,6 @@
 ### Hi, I'm Diogo Marques 👋
 
-- 🔭 I’m currently working on front-end
+- 🔭 I’m currently working on back-end
 - 🌱 I’m currently learning Sql
 - 😄 Pronouns: ele/dele
 
